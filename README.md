@@ -1,2 +1,4 @@
-# azure-img-classification-backend
-Azure Image Classification Backend Service
+# Azure Image Classification Backend Service
+
+Using MobileNetV2 model transfer learning.
+
